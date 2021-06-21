@@ -5,7 +5,7 @@ We are going to add dynamic functionality to our static site using Lambda functi
 - We will use a lambda function to:
     - Receive form submissions.
     - Add them to a Dynamo DB table.
-    - Triggera rebuild when new entries are made in the DynamoDB
+    - Trigger a rebuild when new entries are made in the DynamoDB
     - Inject our comments into our posts before they are compiled and uploaded.
 
 ## Steps
