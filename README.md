@@ -1,4 +1,4 @@
-#Lab 1.5 - Adding comments to our static site
+# Lab 1.5 - Adding comments to our static site
 
 We are going to add dynamic functionality to our static site using Lambda functions and DynamoDB. We will also use DynamoDB events to trigger rebuilds of our site when new comments are submitted. Our site will remain 100% static, and fully automated.
 
